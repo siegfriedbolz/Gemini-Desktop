@@ -25,7 +25,7 @@ This is an unofficial Gemini desktop application built with Electron. It provide
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/Alyetama/Gemini-Desktop.git](https://github.com/Alyetama/Gemini-Desktop.git)
+   git clone https://github.com/Alyetama/Gemini-Desktop.git
    ```
 
 2. **Install dependencies:**
