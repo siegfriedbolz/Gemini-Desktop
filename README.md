@@ -15,7 +15,8 @@ This is an unofficial Gemini desktop application built with Electron. It provide
 
 ## Installation 📥
 
-1. **Download the latest release from the releases page.**
+1. **Download the latest release:**
+   - **macOS (arm64):** [Download](https://github.com/Alyetama/Gemini-Desktop/releases/download/v1.0.0/Gemini.Desktop-1.0.0-arm64.dmg)
 
 2. **Install the app:**
    - **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
