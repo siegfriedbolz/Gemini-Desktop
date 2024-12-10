@@ -11,7 +11,8 @@ This is an unofficial Gemini desktop application built with Electron. It provide
 
 ## Screenshots 📸
 
-![Screenshot](assets/screenshot.png)
+![Screenshot1](assets/screenshot_1.png)
+![Screenshot2](assets/screenshot_2.png)
 
 ## Installation 📥
 
