@@ -23,7 +23,7 @@ You cannot use Passkey for login on that app. Just use the password authenticati
 ## Installation 📥
 
 1. **Download the latest release:**
-   - **macOS (arm64):** [Download](https://github.com/siegfriedbolz/Gemini-Desktop/releases/download/v1.0.0/Gemini.Desktop-1.0.0-arm64.dmg)
+   - **macOS (arm64):** [Download](https://github.com/siegfriedbolz/Gemini-Desktop/releases/download/1.0/Gemini.Desktop-1.0.0-arm64.dmg)
 
 2. **Install the app:**
    - **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
