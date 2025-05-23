@@ -1,13 +1,19 @@
 # Gemini Desktop App 🚀
 
 This is an unofficial Gemini desktop application built with Electron. It provides a convenient way to access and use Google Gemini on your desktop.
+It is a fork from https://github.com/Alyetama/Gemini-Desktop
 
+I forked this project due to security concerns. I reviewed the code to ensure that my Google login credentials are not sent to any third-party service or otherwise misused. This fork gives me full control over the code I run.
 ## Features ✨
 
 - Access the full functionality of Google Gemini.
 - Native desktop experience with window controls and menus.
 - Persistent sessions (you stay logged in).
 - Optimized for performance and usability.
+
+## Authentication
+You cannot use Passkey for login on that app. Just use the password authentication.
+
 
 ## Screenshots 📸
 
@@ -17,26 +23,20 @@ This is an unofficial Gemini desktop application built with Electron. It provide
 ## Installation 📥
 
 1. **Download the latest release:**
-   - **macOS (arm64):** [Download](https://github.com/Alyetama/Gemini-Desktop/releases/download/v1.0.0/Gemini.Desktop-1.0.0-arm64.dmg)
+   - **macOS (arm64):** [Download](https://github.com/siegfriedbolz/Gemini-Desktop/releases/download/v1.0.0/Gemini.Desktop-1.0.0-arm64.dmg)
 
 2. **Install the app:**
    - **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
 
 ## Development 🛠️
 
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Alyetama/Gemini-Desktop.git
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-3. **Start the development server:**
+2. **Start the development server:**
 
    ```bash
    npm start
